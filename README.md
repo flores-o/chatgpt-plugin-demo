@@ -1,1 +1,1 @@
-# chatgpt-plugin-demo
+# chatgpt-plugin-demo with https://berri.ai/
